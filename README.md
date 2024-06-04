@@ -7,3 +7,5 @@ Experienced engineering manager transitioning to web development, with a robust 
 - 💞️ I’m looking to collaborate on interesting projects and improve my skills as Web Developer
 - 📫 You can reach me with my mail: sergshpak03@gmail.com
 - 👀 I’m interested in computer sience, AI; Hobby - Running, Gym
+
+# 🤹️ My Technology Stack
