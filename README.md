@@ -23,5 +23,5 @@ NoSQL (MongoDB)\
 **DevOps:**
 Docker | Git | GitHub\
 **CMS:**
-WordPress
+WordPress | WIX | Tilda
 
