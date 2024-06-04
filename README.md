@@ -9,3 +9,19 @@ Experienced engineering manager transitioning to web development, with a robust 
 - 👀 I’m interested in computer sience, AI; Hobby - Running, Gym
 
 ## 🤹️ My Technology Stack
+**Front-End:**
+HTML | CSS | JavaScript/ES6
+React | Next.js 
+TypeScript\
+**UI Libraries:**
+Chakra UI | Bootstrap |Tailwind CSS\
+**Back-End:**
+Node.js | Express | Auth (JWT, Passport)\
+**Databases:**
+SQL (MySQL, PostgreSQL)
+NoSQL (MongoDB)\
+**DevOps:**
+Docker | Git | GitHub
+CMS:
+WordPress
+
