@@ -8,4 +8,4 @@ Experienced engineering manager transitioning to web development, with a robust 
 - 📫 You can reach me with my mail: sergshpak03@gmail.com
 - 👀 I’m interested in computer sience, AI; Hobby - Running, Gym
 
-# 🤹️ My Technology Stack
+## 🤹️ My Technology Stack
