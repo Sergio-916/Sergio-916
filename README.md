@@ -21,7 +21,7 @@ Node.js | Express | Auth (JWT, Passport)\
 SQL (MySQL, PostgreSQL)
 NoSQL (MongoDB)\
 **DevOps:**
-Docker | Git | GitHub
-CMS:
+Docker | Git | GitHub\
+**CMS:**
 WordPress
 
