@@ -1,6 +1,6 @@
 # 👋 Hi I'm Sergey Shpak
-Experienced engineering manager transitioning to web development, with a robust background in project management and sales. Proficient in HTML, CSS, JavaScript, React, Next.js, Node.js, TypeScript, Express, Bootstrap, Chakra UI, and SQL. Currently completing a Full Stack Web Development program at UNT, with several deployed web projects demonstrating strong technical and leadership skills.
-- 🎲️ I'm 44 and in 2002 I've moved to Argenting with my wife and 2 kids
+Experienced mechanical engineer transitioning to web development, with a robust background in project management and sales. Proficient in HTML, CSS, JavaScript, React, Next.js, Node.js, TypeScript, Express, Bootstrap, Chakra UI, and SQL. Currently completing a Full Stack Web Development program at UNT, with several deployed web projects demonstrating strong technical and leadership skills.
+- 🎲️ I'm 45 and in 2002 I've moved to Argenting with my wife and 2 kids
 - 🔛️ I swiched to IT from my previous experience from an engineer to a manager and this experience helps me studying complex chalenges and tasks a lot
 - 🎓️ I've learned: JavaScript, HTML/CSS, React, NextJS, NodeJS, Express, SQL, Typescript, JWT
 - 🌱 I’m currently learning: NestJS, MobX, Graph QL, React Native
