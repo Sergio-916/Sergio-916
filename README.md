@@ -3,7 +3,7 @@ Experienced Full Stack Developer with three years of professional experience in 
 - 🎲️ I'm 45 and in 2002 I've moved to Argenting with my wife and 2 kids
 - 🔛️ I swiched to IT from my previous experience from an engineer and this experience helps me studying complex chalenges and tasks a lot
 - 🎓️ I've learned: JavaScript, HTML/CSS, React, NextJS, NodeJS, Express, SQL, Typescript, JWT, React Native, MobX
-- 🌱 I like to learn new frameworks and be on the agde of modern technologies 
+- 🌱 I like to learn new frameworks and be on the adge of modern technologies 
 - 💞️ I’m looking forward to collaborate on interesting projects and improve my skills as Software Developer
 - 📫 You can reach me with my mail: sergshpak03@gmail.com
 - 👀 I’m interested in computer sience, AI; Hobby - Running, Gym
