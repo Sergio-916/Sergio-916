@@ -6,8 +6,8 @@ Experienced Full Stack Developer with three years of professional experience in 
 - 🌱 I like to learn new frameworks and be on the adge of modern technologies 
 - 💞️ I’m looking forward to collaborate on interesting projects and improve my skills as Software Developer
 - 📫 You can reach me with my mail: sergshpak03@gmail.com
-- 👀 I’m interested in computer sience, AI;
--     Hobby - Running, Gym
+- 👀 I’m interested in computer sience, AI
+- 🏃‍➡️ Hobby - Running, Gym
 
 ## 🤹️ My Technology Stack
 **Front-End:**
