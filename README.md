@@ -14,9 +14,9 @@ HTML | CSS | JavaScript/ES6 |
 React | Next.js |
 TypeScript | React Native\
 **UI Libraries:**
-MUI | Chakra UI | Bootstrap |Tailwind CSS\
+MUI | Chakra UI | Bootstrap |Tailwind CSS | Styled Components\
 **Back-End:**
-Node.js | Express | Auth (JWT, Passport) | Python\
+Node.js | Express | Python | Telegram ChatBots | Telegram MiniApps\
 **Databases:**
 SQL: MySQL, PostgreSQL | SupaBase
 NoSQL: MongoDB | FireBase\
