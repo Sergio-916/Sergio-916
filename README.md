@@ -1,5 +1,5 @@
 # 👋 Hi I'm Sergey Shpak
-Experienced Full Stack Developer with three years of professional experience in web and mobile application development. Proficient in JavaScript, HTML, CSS, React, Next.js, Node.js, Express, SQL, TypeScript, Supabase, React Native, Chakra UI, Tailwind CSS, and Bootstrap. Focused on delivering high-performance, scalable, and user-friendly solutions.
+Experienced AI Engineer specializing in RAG, LLMs, local models, and AI-powered chatbots using Python. Evolved from a Full Stack Developer background (3+ years) in web and mobile development — JavaScript, React, Next.js, Node.js, TypeScript. Building full-stack AI solutions with FastAPI, LangChain, LlamaIndex, FAISS, Weaviate, Supabase. Skilled in ML and data science workflows, including data preprocessing, model fine-tuning, evaluation, and working with SQL/NoSQL and vector databases.
 - 🎲️ I'm 45 and in 2022 I've moved to Argenting with my wife and 2 kids
 - 🔛️ I swiched to IT from my previous experience from an engineer and this experience helps me studying complex chalenges and tasks a lot
 - 🎓️ I've learned: JavaScript, HTML/CSS, React, NextJS, NodeJS, Express, Fastify, SQL, Typescript, JWT, React Native, MobX, Redux and much more...
@@ -17,7 +17,7 @@ TypeScript | React Native\
 **UI Libraries:**
 MUI | Chakra UI | Bootstrap |Tailwind CSS | Styled Components\
 **Back-End:**
-Node.js | Express | Python | Telegram ChatBots | Telegram MiniApps\
+Python | Node.js | Express |  Telegram ChatBots | Telegram MiniApps\
 **Databases:**
 SQL: MySQL, PostgreSQL | SupaBase
 NoSQL: MongoDB | FireBase\
