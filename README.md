@@ -19,7 +19,7 @@ MUI | Chakra UI | Bootstrap |Tailwind CSS | Styled Components\
 **Back-End:**
 Python | Node.js | Express |  Telegram ChatBots | Telegram MiniApps\
 **Databases:**
-SQL: SQLite | MySQL | PostgreSQL | SupaBase
+SQL: SQLite | MySQL | PostgreSQL | SupaBase\
 NoSQL: MongoDB | FireBase | Redis\
 VectorDB: QDRANT | PGVector | Croma\
 **DevOps:**
