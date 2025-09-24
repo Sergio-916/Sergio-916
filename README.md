@@ -21,7 +21,7 @@ Python | Node.js | Express |  Telegram ChatBots | Telegram MiniApps\
 **Databases:**
 SQL: SQLite | MySQL | PostgreSQL | SupaBase\
 NoSQL: MongoDB | FireBase | Redis\
-VectorDB: QDRANT | PGVector | Croma\
+VectorDB: Qdrant | PGVector | Croma\
 **DevOps:**
 Docker | Git | GitHub\
 **CMS:**
